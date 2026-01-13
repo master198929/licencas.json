@@ -1,20 +1,8 @@
 {
-  "config_geral": {
-    "versao_software": "1.0.0",
-    "mensagem_global": ""
-  },
   "clientes": {
-    "TESTE-1234": {
-      "nome": "Cliente de Teste",
+    "TESTE-123": {
       "status": "ativo",
-      "validade": "2026-12-31",
-      "whatsapp_admin": "5533999999999"
-    },
-    "CLIENTE-BLOQUEADO": {
-      "nome": "Exemplo Suspenso",
-      "status": "suspenso",
-      "validade": "2024-01-01",
-      "whatsapp_admin": ""
+      "validade": "2026-12-31"
     }
   }
 }
