@@ -1,8 +1,18 @@
 {
   "clientes": {
-    "TESTE-123": {
+    "CHAVE_ABC_123": {
       "status": "ativo",
-      "validade": "2026-12-31"
+      "validade": "2024-12-31",
+      "plano": "Bronze",
+      "limite_maquinas": 1,
+      "hwids_autorizados": []
+    },
+    "CHAVE_PRATA_456": {
+      "status": "ativo",
+      "validade": "2025-01-10",
+      "plano": "Prata",
+      "limite_maquinas": 3,
+      "hwids_autorizados": [] 
     }
   }
 }
