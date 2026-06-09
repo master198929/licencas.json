@@ -1,18 +1,10 @@
 {
-  "clientes": {
-    "CHAVE_ABC_123": {
-      "status": "ativo",
-      "validade": "2024-12-31",
-      "plano": "Bronze",
-      "limite_maquinas": 1,
-      "hwids_autorizados": []
-    },
-    "CHAVE_PRATA_456": {
-      "status": "ativo",
-      "validade": "2025-01-10",
-      "plano": "Prata",
-      "limite_maquinas": 3,
-      "hwids_autorizados": [] 
-    }
+  "academia_fulano": {
+    "chave": "AQUI_VAI_A_CHAVE_GERADA_SHA256",
+    "status": "ativo"
+  },
+  "barbearia_ciclano": {
+    "chave": "OUTRA_CHAVE_GERADA_SHA256",
+    "status": "inativo"
   }
 }
